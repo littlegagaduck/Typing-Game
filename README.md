@@ -1,7 +1,7 @@
 # Typing-Game
 山东大学软件学院《面向对象》课程实验
 
-~~想试试github存代码，或许可以帮到学弟学妹
+~~想试试github存代码，或许还可以帮到学弟学妹~~
 
 Project environment：Qt Creator 6.0.2
 
