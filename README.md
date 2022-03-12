@@ -9,7 +9,6 @@ This project is relatively simple, and there may be lots of bugs.
 
 The logic is also a bit confusing, if you need my help, I will try my best.
 
-
-Tips：
+###### Tips
 
 On the page where the article is entered, the input of ordinary English text is supported, and the program will automatically handle punctuation and case conversion
